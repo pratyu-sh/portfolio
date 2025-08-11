@@ -80,7 +80,6 @@ export const BentoGrid = ({
             <p className="text-sm text-white/80 border-1 w-[10rem] text-center border-gray-400 rounded-3xl px-2 py-1">Web Development</p>
             <p className="text-sm text-white/80 border-1 w-[10rem] text-center border-gray-400 rounded-3xl px-2 py-1">UIUX Design</p>
             <p className="text-sm text-white/80 border-1 w-[10rem] text-center border-gray-400 rounded-3xl px-2 py-1">NextJS </p>
-            
 
 
 
